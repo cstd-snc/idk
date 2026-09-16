@@ -8,5 +8,4 @@ app.get('/', (req,res) => {
 
 app.listen(port, () => {
     console.log('servidor rodando na porta ${port}');
-}); console.log(variavelQueNaoExiste);
-
+}) ;
